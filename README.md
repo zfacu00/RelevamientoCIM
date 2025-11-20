@@ -173,7 +173,8 @@ A modo de documentación visual del proyecto, se proponen las siguientes imágen
 
 Este proyecto fue realizado por:
 
-- **Alumno**: Zaracho, Facundo – DNI N° 42.873.890  
+- **Alumnos**: Zaracho, Facundo – DNI N° 42.873.890
+- Casares, Maximiliano – DNI N° 33194174  
 - **Tutor**: Cristian Lukaszewicz  
 
 Como parte de la **Práctica Profesional Supervisada** de la carrera de **Ingeniería Mecatrónica** en la **Facultad de Ingeniería de la Universidad Nacional de Lomas de Zamora**.
